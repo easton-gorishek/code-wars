@@ -7,4 +7,4 @@
 * Length must be between 4 - 16 characters. 
 
 ## Whiteboard
-* Worked on this kata challenge with Injoong and Mariah.
+* Worked on this kata challenge with Injoong and Mariah. 
